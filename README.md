@@ -21,8 +21,7 @@ In cheerleading competitions, there is always a push to see who the best is. It 
 ## Getting Started
 
 1. Raw Data is being kept [here](https://docs.google.com/spreadsheets/d/1GY99iC1dWVdMKBqWc-7tEyfcs4JwBLWTCICWJVBO4Ps/edit?usp=sharing).    
-2. Data processing/transformation scripts are being kept [here](https://github.com/TheCameronJones/CyclisticCaseStudy/blob/959f9ef7eb36b7a5b910fa4a4a9618c01309a81b/CyclisticCaseStudy.Rmd)
-3. Follow setup [instructions](https://github.com/TheCameronJones/CyclisticCaseStudy/blob/959f9ef7eb36b7a5b910fa4a4a9618c01309a81b/CyclisticCaseStudy.Rmd)
+2. Data processing/transformation scripts are being kept [here](https://github.com/TheCameronJones/23SummitDeepDive/blob/main/Summit2023DeepDive.ipynb)
 
 
 ## Contributing Members
